@@ -1,22 +1,22 @@
-normal=[`@${u} dont you dare talk 2 me peasant vwuh`,`I strongly dislike you as a person, ${u}`,`mods, ban ${u}`,`@${u} and who gave you permission to speak to me?`,`@${u} I could eat a bowl of alphabet soup and shit out better messages than you make.`];
+normal=['@' + u + ' dont you dare talk 2 me peasant vwuh','I strongly dislike you as a person, ' + '@' + u,'mods, ban ' + '@' + u,'@' + u + ' and who gave you permission to speak to me?','@' + u + ' I could eat a bowl of alphabet soup and shit out better messages than you make.'];
 switch(u)
 {
     case 'scoden18':
-        a=[`@${u} you are the worst streamer ever.`,`@${u} shut your wannabe ASMR ass the fuck up.`,`@${u} I hope you get banned from Twitch for making such shitty content.`];
+        a=['@' + u + ' you are the worst streamer ever.','@' + u + ' shut your wannabe ASMR ass the fuck up.','@' + u + ' I hope you get banned from Twitch for making such shitty content.'];
         a[Math.floor(Math.random()*a.length)];
         break;
-    case 'mugen45_':
-        [`@${u} <3 spit your facts my goat <3`,`@${u} I hope you live a long and prosperous life.`];
+    case 'Mugen45_':
+        ['@' + u + ' <3 spit your facts my goat <3','@' + u + ' I hope you live a long and prosperous life.'];
         a[Math.floor(Math.random()*a.length)];
         break;
     case 'fireballzxd':
-        a=[`@${u} stfu and get back to modding`,`@${u} why are you not streaming right now dumbass`,`@${u} I am not taking this shit from some goddamn canadian.`];
+        a=['@' + u + ' stfu and get back to modding','@' + u + ' why are you not streaming right now dumbass','@' + u + ' I am not taking this shit from some goddamn canadian.'];
         a[Math.floor(Math.random()*a.length)];
         break;
-    case 'aikoshyuio':
+    case 'Aikoshyuio':
         if (Math.random() > 0.5)
         {
-            a=[`@${u} why are you chatting here instead of getting banned from seamless?`,`@${u} I am not taking this shit from some goddamn canadian.`,`@${u} I hope Miyazaki personally disables your steam account.`];
+            a=['@' + u + ' why are you chatting here instead of getting banned from seamless?','@' + u + ' I am not taking this shit from some goddamn canadian.','@' + u + ' I hope Miyazaki personally disables your steam account.'];
             a[Math.floor(Math.random()*a.length)];
         }
         else
@@ -28,7 +28,7 @@ switch(u)
         
         if (Math.random() > 0.5)
         {
-            a=[`@${u} at least I dont live in a gnome.`,`@${u} how about you rødgrød med fløde your silly little ass out of my chat?`,`@${u} pipe down until you get a pc.`];
+            a=['@' + u + ' at least I dont live in a gnome.','@' + u + ' how about you rødgrød med fløde your silly little ass out of my chat?','@' + u + ' pipe down until you get a pc.'];
             a[Math.floor(Math.random()*a.length)];
         }
         else
