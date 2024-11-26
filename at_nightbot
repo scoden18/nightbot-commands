@@ -6,7 +6,7 @@ switch(u)
         a[Math.floor(Math.random()*a.length)];
         break;
     case 'Mugen45_':
-        ['@' + u + ' <3 spit your facts my goat <3','@' + u + ' I hope you live a long and prosperous life.'];
+        a=['@' + u + ' <3 spit your facts my goat <3','@' + u + ' I hope you live a long and prosperous life.'];
         a[Math.floor(Math.random()*a.length)];
         break;
     case 'fireballzxd':
