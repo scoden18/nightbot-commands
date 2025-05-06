@@ -1,4 +1,4 @@
-normal=['@' + u + ' dont you dare talk 2 me peasant vwuh','I strongly dislike you as a person, ' + '@' + u,'mods, ban ' + '@' + u,'@' + u + ' and who gave you permission to speak to me?','@' + u + ' I could eat a bowl of alphabet soup and shit out better messages than you make.'];
+normal=['@' + u + ' dont you dare talk 2 me peasant vwuh','I strongly dislike you as a person, ' + '@' + u,'mods, ban ' + '@' + u,'@' + u + ' and who gave you permission to speak to me?','@' + u + ' I could eat a bowl of alphabet soup and shit out better messages than you make.','@' + u + ' Miyazaki just called. Elden Ring 2 is delayed another 3 years because you wont shut up.','In the Scoden18 chat. straight up hating it. and by it, haha, well. lets justr say. ' + '@' + u,'@' + u + ' You must be Dark Souls II the way youre a stinky pile of dogshit.'];
 switch(u)
 {
     case 'scoden18':
