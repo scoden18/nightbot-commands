@@ -1,0 +1,2 @@
+quotes = ["My feet determine the size of my dick? No honey, your feet determine the size of my dick.", "Keep calling him handsome and maybe he'll handsome dick over.", "Like a flake of snow I melt at your touch."];
+quotes[Math.floor(Math.random()*quotes.length)];
